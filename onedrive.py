@@ -1,7 +1,7 @@
 
 
 # # pip install pandas openpyxl
-# # 69fc7b62-28d7-45b6-9307-d7661da77dc4
+
 # import msal
 # import requests
 # import io
@@ -10,7 +10,7 @@
 # # ==========================
 # # CONFIG
 # # ==========================
-# CLIENT_ID = "54019c01-0139-4eca-a6ae-a73b24d55f3d"
+# CLIENT_ID = ""
 # AUTHORITY = "https://login.microsoftonline.com/common"
 # SCOPES = ["Files.Read.All", "User.Read"]
 
@@ -115,7 +115,6 @@
 # print(result)
 
 
-##54019c01-0139-4eca-a6ae-a73b24d55f3d
 
 import msal
 import requests
