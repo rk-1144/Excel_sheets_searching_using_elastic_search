@@ -7,7 +7,7 @@ from elasticsearch import Elasticsearch, helpers
 from datetime import datetime
 
 # ============ CONFIGURATION ============
-CLIENT_ID = "54019c01-0139-4eca-a6ae-a73b24d55f3d"  # ← PUT YOUR CLIENT_ID HERE
+CLIENT_ID = ""  # ← PUT YOUR CLIENT_ID HERE
 AUTHORITY = "https://login.microsoftonline.com/common"
 SCOPES = ["Files.Read.All", "User.Read"]
 ONEDRIVE_FOLDER = "Excel"  # ← Your OneDrive folder name
